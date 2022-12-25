@@ -1,8 +1,8 @@
-- 🦇 Hi, I’m taam !!
-- 🕷️ I’m interested in death metal, horror and caffeine
-- 🕸️ I’m currently learning coding and basketball
-- 🎮 I’m looking to collaborate on some discord bot projects 
-- 🎧 How to reach me ig: taamxx
+- 🦇 Hey, I’m taam 
+- 🕷️ interests: death metal, horror and caffeine
+- 🕸️ learning coding & basketball
+- 🎮 discord bot collabs
+- 🎧 ig: t4amxnna
 
 <!---
 taamx1/taamx1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
